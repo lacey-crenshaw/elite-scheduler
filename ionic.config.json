@@ -1,0 +1,7 @@
+{
+  "name": "Elite Scheduler App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
