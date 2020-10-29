@@ -7,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MyTeamsPage implements OnInit {
 
- goToTournaments() {
-  this.navCtrl.navigateForward('tournaments');
-}
+//  goToTournaments() {
+//   this.navCtrl.navigateForward('tournaments');
+// }
 }
 
